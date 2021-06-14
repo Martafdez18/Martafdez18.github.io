@@ -458,13 +458,13 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 	margin: 0;
 }
 .rzm_Testimonial .carousel-indicators {
-    bottom: 8px;
+    bottom: 0px;
     left: 210px;
 }
 .carousel-indicators li{
 	background-color:#bfbfbf !important;
 	border:none !important;
-	margin: 0px 100px 0px 0px !important;
+	margin: 0px 15px 0px 0px !important;
 }
 .carousel-indicators .active{
 	width:10px !important;
